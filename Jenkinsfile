@@ -8,7 +8,7 @@ pipeline {
             steps {
                 echo "Building.."
                 sh '''
-                echo "Doing build stuff.."
+                echo "Doing build stuff.. And more stuff"
                 '''
             }
         }
